@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(248, 250, 246);
+}
+
+nav {
+    text-align: center;
+
+    text-align: center;
+    background-color: rgb(241, 241, 236);
+}
+
+ul>li {
+    display: inline-block;
+}
+
+header {
+    background-color: rgb(231, 231, 241);
+    text-align: center;
+}
+
+#about {
+    background-color: rgb(243, 240, 234);
+    text-align: center;
+}
+
+#contact {
+    background-color: rgb(218, 214, 223);
+    text-align: center;
+}
+
+#h3 {
+    text-align: center;
+    background-color: rgb(235, 235, 240)
+}
+
+div {
+    text-align: center;
+    background-color: aquamarine
+}
